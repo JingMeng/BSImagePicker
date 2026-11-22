@@ -1,8 +1,8 @@
-package com.asksira.imagepickersheetdemo;
+﻿package com.asksira.imagepickersheetdemo;
 
 import android.net.Uri;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ImageView;
 
@@ -82,3 +82,4 @@ public class MainActivity extends AppCompatActivity implements BSImagePicker.OnS
         }
     }
 }
+
